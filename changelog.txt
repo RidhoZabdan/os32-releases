@@ -1,0 +1,8 @@
+v2.3
+- Space Invaders
+- What's new page
+- Improved slide animations
+
+v2.2
+- Cloner
+- Screensaver
